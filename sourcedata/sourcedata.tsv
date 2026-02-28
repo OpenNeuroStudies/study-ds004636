@@ -1,0 +1,2 @@
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
+ds004636	110	1672	6	24	2536	362	280	4856008424864	5609176790	1914829820	n/a	n/a	n/a	n/a	anat,fmap,func
